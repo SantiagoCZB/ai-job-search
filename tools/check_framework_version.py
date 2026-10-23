@@ -6,7 +6,7 @@ modified in git without a change/bump to its 'framework_version' frontmatter key
 Also ensures all framework files have a valid 'framework_version' frontmatter key.
 """
 
-from __future__ import annotations
+from __future__ import annotations 
 import os
 import re
 import subprocess
